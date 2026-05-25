@@ -4,6 +4,6 @@ By Jessica
 
 ## Findings
 
-Link to the notebook
+Link to [the notebook](https://github.com/jessicacervi/BH-PCMLAI-26-04-PA5.1/blob/main/prompt.ipynb).
 
 
